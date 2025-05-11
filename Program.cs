@@ -4,6 +4,7 @@ foreach (var item in new []{1,2,3,2,4})
         int number = item+2;
         Console.WriteLine(number);
         Console.WriteLine("commit first bug");
+        Console.WriteLine("commit second bug");
 }
 
 

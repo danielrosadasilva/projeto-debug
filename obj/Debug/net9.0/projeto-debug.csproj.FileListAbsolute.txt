@@ -1,0 +1,14 @@
+C:\Users\danie\OneDrive\Documentos\projeto-debug\bin\Debug\net9.0\projeto-debug.exe
+C:\Users\danie\OneDrive\Documentos\projeto-debug\bin\Debug\net9.0\projeto-debug.deps.json
+C:\Users\danie\OneDrive\Documentos\projeto-debug\bin\Debug\net9.0\projeto-debug.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\projeto-debug\bin\Debug\net9.0\projeto-debug.dll
+C:\Users\danie\OneDrive\Documentos\projeto-debug\bin\Debug\net9.0\projeto-debug.pdb
+C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\projeto-debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\projeto-debug.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\projeto-debug.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\projeto-debug.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\projeto-debug.dll
+C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\refint\projeto-debug.dll
+C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\projeto-debug.pdb
+C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\projeto-debug.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\ref\projeto-debug.dll

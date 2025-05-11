@@ -5,6 +5,7 @@ foreach (var item in new []{1,2,3,2,4})
         Console.WriteLine(number);
         Console.WriteLine("commit first bug");
         Console.WriteLine("commit second bug");
+        Console.WriteLine("second branch");
 }
 
 

@@ -2,7 +2,7 @@
 foreach (var item in new []{1,2,3,2,4})
 {
         int number = item+2;
-      
+      //dasd
       
 }
 

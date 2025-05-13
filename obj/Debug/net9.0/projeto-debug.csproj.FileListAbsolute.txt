@@ -12,3 +12,4 @@ C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\refint\projeto
 C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\projeto-debug.pdb
 C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\projeto-debug.genruntimeconfig.cache
 C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\ref\projeto-debug.dll
+C:\Users\danie\OneDrive\Documentos\projeto-debug\obj\Debug\net9.0\projeto-debug.sourcelink.json
